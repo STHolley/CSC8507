@@ -8,3 +8,8 @@ Camera tracking with raycast collisions to reduce intersections on movement.
 Interaction between force-based movement and vector-based movement for fixed rotating platforms / moving platforms and a player object.  
 Kill planes with respawn areas which change on pass-through.  
 Material changes for increased friction, mass, drag, and elasticity.  
+
+# Controls
+WASD - Move player around (Direction relative to camera)
+SPACE - Jump
+L - Change state between bouncy and tough
