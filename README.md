@@ -10,6 +10,6 @@ Kill planes with respawn areas which change on pass-through.
 Material changes for increased friction, mass, drag, and elasticity.  
 
 # Controls
-WASD - Move player around (Direction relative to camera)
-SPACE - Jump
-L - Change state between bouncy and tough
+WASD - Move player around (Direction relative to camera)  
+SPACE - Jump  
+L - Change state between bouncy and tough  
